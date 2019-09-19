@@ -12,3 +12,5 @@ This is an audio visualizer with the following features:
 - Select from 5 different types of visualizers
 - Select a random color
 - Adjust color based on RGB values
+
+Song information is taken from JSON file. 
