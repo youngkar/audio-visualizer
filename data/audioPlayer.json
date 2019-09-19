@@ -1,0 +1,54 @@
+{
+	"music" : [
+		{
+			"fileName" : "summer (1).mp3",
+			"title" : "Summer",
+			"artist" : "Marshmello",
+		},
+		{
+			"fileName" : "02 Supa Luv.mp3",
+			"title" : "Supa Luv",
+			"artist" : "TEENTOP",
+		},
+		{
+			"fileName" : "09 Fireflies.mp3",
+			"title" : "Fireflies",
+			"artist" : "Owl City",
+		},
+		{
+			"fileName" : "Where Are You Now.mp3",
+			"title" : "Where Are Ü Now",
+			"artist" : "Justin Bieber",
+		},
+		{
+			"fileName" : "01 White Lies.mp3",
+			"title" : "White Lies",
+			"artist" : "Max Frost",
+		},
+		{
+			"fileName" : "01 Roses (feat. ROZES).mp3",
+			"title" : "Roses",
+			"artist" : "The Chainsmokers ft. ROZES",
+		},
+		{
+			"fileName" : "11 Undercover Martyn Flexin' It (Passion Pit Remix).mp3",
+			"title" : "Undercover Martyn Flexin' It (Passion Pit Remix)",
+			"artist" : "Two Door Cinema Club",
+		},
+		{
+			"fileName" : "01 Timber (feat. Ke$ha).mp3",
+			"title" : "Timber",
+			"artist" : "Pitbull ft. Ke$ha",
+		},
+		{
+			"fileName" : "04 Breezeblocks.mp3",
+			"title" : "Breezeblocks",
+			"artist" : "Alt-J",
+		},
+		{
+			"fileName" : "07 Boom Clap.mp3",
+			"title" : "Boom Clap",
+			"artist" : "Charlie XCX",
+		},
+	]
+}
